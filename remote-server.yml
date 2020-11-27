@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: arun
+    password: arun
+    url: jdbc:mysql://localhost:3023/test
+    title: '{cipher}bdac4e9df9a6e11a0526135d9740de9c38a93cd429c816047a75b1f64510b6c2'
