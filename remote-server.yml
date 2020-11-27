@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: arun
-    password: arun
+    username: '{cipher}68f7f15f88557a551ce38b5f5eafd6dff2f8ea33e9643969b60f2a8aa59d1f1a'
+    password: '{cipher}68f7f15f88557a551ce38b5f5eafd6dff2f8ea33e9643969b60f2a8aa59d1f1a'
     url: jdbc:mysql://localhost:3023/test
-    title: '{cipher}bdac4e9df9a6e11a0526135d9740de9c38a93cd429c816047a75b1f64510b6c2'
+    title: '{cipher}a6f12f8b1cf4b695e0a273e873cae54ee7b9ad5150190210691eb216e2ab6a57'
