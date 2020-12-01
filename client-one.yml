@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: '{cipher}68f7f15f88557a551ce38b5f5eafd6dff2f8ea33e9643969b60f2a8aa59d1f1a'
+    password: '{cipher}68f7f15f88557a551ce38b5f5eafd6dff2f8ea33e9643969b60f2a8aa59d1f1a'
+    url: jdbc:mysql://localhost:3023/test
+    title: 'client one properties'
